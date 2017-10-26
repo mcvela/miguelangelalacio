@@ -3,9 +3,14 @@
 $txtAboutme="About  me";
 
 $myTimeline= array( 
+   "Year 2017-now"   => array('modo'=>'work','color'=>'bg-green','icon'=> "fa fa-briefcase bg-blue  ",'head'=> "CTO ",'date'=>  "",'desc'=> "Leader IT for ticjob.es and LATAM",
+				'content'=> "
+				 <a href='http://www.ticjob.es/' target='_ticjob'><img width='250' height='200' src='./image/ticjob.png' alt='Ticjob' class='img-thumbnail image-bordered margin'/></a>
+   "),
+
     "Year 2015-2016"   => array('modo'=>'work','color'=>'bg-green','icon'=> "fa fa-briefcase bg-blue  ",'head'=> "IT Architect",'date'=>  "",'desc'=> "Proyect Manager and Software Developer",
 				'content'=> "
-				 <a href='http://atsistemas.com/' target='_mathbook'><img width='250' height='200' src='./image/atsistemas.png' alt='ATSistemas' class='img-thumbnail image-bordered margin'/></a>
+				 <a href='http://atsistemas.com/' target='_atsistemas'><img width='250' height='200' src='./image/atsistemas.png' alt='ATSistemas' class='img-thumbnail image-bordered margin'/></a>
     <a href='https://www.allfundsbank.com/' target='_allfundsbank'><img width='250' height='200' src='./image/allfundsbank.png' class='img-thumbnail image-bordered margin' title='All Funds Bank' alt='All Funds Bank'></a>"),
 		
     "Year 2015"   => array('modo'=>'work','color'=>'bg-green','icon'=> "fa fa-briefcase bg-blue  ",'head'=> "Java developer (DEVOPS)",'date'=>  "",'desc'=> "Software Developer in Ireland",
