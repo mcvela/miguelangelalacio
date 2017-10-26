@@ -77,6 +77,7 @@ CACHE:
 ./image/allfundsbank.png
 ./image/atsistemas.png
 ./image/xanadu.png
+./image/ticjob.png
 ./image/download_github.jpg
 ./image/maavbrain.png
 ./fonts/SL0aFUFfkFMMdariYQ3_YY4P5ICox8Kq3LLUNMylGO4.woff2
