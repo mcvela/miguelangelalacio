@@ -6,7 +6,7 @@ $myTimeline= array(
    "Year 2017-now"   => array('modo'=>'work','color'=>'bg-green','icon'=> "fa fa-briefcase bg-blue  ",'head'=> "CTO ",'date'=>  "",'desc'=> "Leader IT for ticjob.es and LATAM",
 				'content'=> "
 				 <a href='http://www.ticjob.es/' target='_ticjob'><img width='250' height='200' src='./image/ticjob.png' alt='Ticjob' class='img-thumbnail image-bordered margin'/></a>
-   "),
+  <a href='https://www.youtube.com/watch?time_continue=5&v=DCVEKuagJ7Y' target='_ticjob'><img width='250' height='200' src='./image/video-ticjob.png' class='img-thumbnail image-bordered margin' title='Ticjob' alt='Ticjob'></a>"),
 
     "Year 2015-2016"   => array('modo'=>'work','color'=>'bg-green','icon'=> "fa fa-briefcase bg-blue  ",'head'=> "IT Architect",'date'=>  "",'desc'=> "Proyect Manager and Software Developer",
 				'content'=> "
